@@ -2,7 +2,7 @@
 # Date: 9/17/2022
 # Description: Merge the two lists in a one sorted list.
 # The list should be made by splicing together the nodes of the first two lists.
-from typing import Optional, Union
+from typing import Optional
 
 from data_structures.ListNode import ListNode
 

@@ -3,7 +3,7 @@
 # Description: Given a string s, return true if it is a palindrome, or false otherwise.
 
 
-def isPalindrome(self, s: str) -> bool:
+def isPalindrome(s: str) -> bool:
     s_length = len(s)
     left = 0
     right = s_length - 1
